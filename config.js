@@ -65,7 +65,7 @@ global.nameown = 'Lenzz Store'
 /*============== STAFF ==============*/
 global.owner = [
   ['6281213184348'],
-  ['6285236138574'],
+  ['6281213184348'],
   ['6285236138574'],
   ['6285236138574', ' Own Xyro Bot', true]
   // [number, dia creator/owner?, dia developer?]
