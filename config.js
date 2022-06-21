@@ -43,31 +43,31 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 global.sig = 'https://instagram.com/ppiowy_'
 global.sgh = 'https://github.com/kannachann'
-global.sgc = 'https://chat.whatsapp.com/Hjr3H7l9iC8F2deP0cv6GT'
+global.sgc = 'https://chat.whatsapp.com/BXy1z9Q9fYl8t0EVoKwhSA'
 global.sdc = 'https://discord.gg/WEJQjugTY7'
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '081213184348'
-global.povo = '081213184348'
-global.pgopay = '081213184348'
-global.ppulsa = '081213184348'
-global.ppulsa2 = '081213184348'
-global.psaweria = 'https://saweria.com/XyroBot'
+global.pdana = '085236138574'
+global.povo = '0'
+global.pgopay = '085236138574'
+global.ppulsa = '085236138574'
+global.ppulsa2 = '085236138574'
+global.psaweria = 'gaada'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283143393763'
-global.nomorown = '62831433937633'
-global.namebot = 'Xyro BOT'
-global.nameown = 'XDIT'
+global.nomorbot = '6289527430568'
+global.nomorown = '6285236138574'
+global.namebot = 'Lenzz-BotZ'
+global.nameown = 'Lenzz Store'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283143393763'],
-  ['6285712420674'],
-  ['18126338970'],
-  ['62831433937633', ' Own Xyro Bot', true]
+  ['6281213184348'],
+  ['6285236138574'],
+  ['6285236138574'],
+  ['6285236138574', ' Own Xyro Bot', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -112,13 +112,13 @@ global.APIKeys = { // APIKey Here
 
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Xyro BOT あ⁩ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Xyro - Ygy˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Xyro 𝗕𝗢𝗧'
+global.wm = '                「 Lenzz BotZ 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Lenzz - Ygy˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ Lenzz 𝗕𝗢𝗧'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `⫹⫺ RPG BOT Whatsapp | By ${global.nameown}`
-global.author = '                「 Ƙαnnα BOT あ⁩ 」'
+global.author = '                「 Lenzz BOT あ⁩ 」'
 
 
 /*============== LOGO ==============*/
